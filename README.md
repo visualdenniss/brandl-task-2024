@@ -6,11 +6,11 @@ If you open the page in your browser, it should display the names of 7 products.
 
 Now for the actual task:
 
-- Display all the products in a grid (name, image, description and correctly formatted price)
-- Use the styled-components library to style it (doesn't have to be a fancy design, just some basic structure)
-- Implement a basic search: Add an input field and filter the displayed products based on what the user entered
-- For each product, a new page should be created, i.e. /astaxanthin, /bio-maca-pulver, etc. and show the product details. The user can access this page by clicking on a product in the grid. Consult the Gatsby documentation on how to create routes.
+- Display all the products in a grid (name, image, description and correctly formatted price) ✅
+- Use the styled-components library to style it (doesn't have to be a fancy design, just some basic structure) ✅
+- Implement a basic search: Add an input field and filter the displayed products based on what the user entered ✅
+- For each product, a new page should be created, i.e. /astaxanthin, /bio-maca-pulver, etc. and show the product details. The user can access this page by clicking on a product in the grid. Consult the Gatsby documentation on how to create routes. ✅
 
 You can add and use any additional npm packages, if you want to.
 
-Please use lazy loading for images. Consult the Gatsby documentation on how to best do this with Gatsby.
+Please use lazy loading for images. Consult the Gatsby documentation on how to best do this with Gatsby. ✅
